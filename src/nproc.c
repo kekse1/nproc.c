@@ -1,6 +1,6 @@
 /*
  * Copyright (c) Sebastian Kucharczyk <kuchen@kekse.biz>
- * https://kekse.biz/ https://github.com/kekse1/scripts/
+ * https://kekse.biz/ https://github.com/kekse1/nproc.c/
  * v0.2.2
  *
  * `cp /usr/bin/nproc /usr/bin/nproc.ORIG \
