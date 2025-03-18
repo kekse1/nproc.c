@@ -19,9 +19,8 @@ also print a value you select for yourself by setting the **`NPROC`**
 environment variable to your needs.
 
 Unset this variable in your environment to see the original/real
-values again. If value is lower than 1, it'll fallback to the real ones.
-
-That's all we can do right here. :-)
+values again. If value is lower than 1, it'll fallback to the
+real ones. That's all.. :-)
 
 ### Implementation
 I choosed regular **ANSI C** as programming language.
