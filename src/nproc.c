@@ -1,7 +1,7 @@
 /*
  * Copyright (c) Sebastian Kucharczyk <kuchen@kekse.biz>
  * https://kekse.biz/ https://github.com/kekse1/scripts/
- * v0.2.2
+ * v0.2.3
  *
  * `cp /usr/bin/nproc /usr/bin/nproc.ORIG \
  * 	&& gcc -o /usr/bin/nproc nproc.c \
@@ -14,7 +14,7 @@
 #include <sys/sysinfo.h>
 #include <unistd.h>
 
-int main(void)
+void main(void)
 {
 	const char* env = getenv("NPROC");
 	int nproc;

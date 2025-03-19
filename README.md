@@ -26,7 +26,9 @@ real ones. That's all.. :-)
 I choosed regular **ANSI C** as programming language.
 
 ## Download
-* [`nproc.c`](src/nproc.c) \[Version v**0.2.2**; created **2024-04-15**\];
+* [`nproc.c`](src/nproc.c) \[Version v**0.2.3**; updated **2025-03-19**\];
+
+BTW., it was born **2024-04-15**.
 
 # Contact
 <img src="https://kekse.biz/github.php?override=github:nproc.c&draw&text=nproc.c@kekse.biz&angle=6&size=38pt&fg=150,20,90&font=OpenSans&ro&readonly&h=64&v=16" />
