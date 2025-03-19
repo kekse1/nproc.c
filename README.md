@@ -1,6 +1,6 @@
 <img src="https://kekse.biz/github.php?draw&override=github:nproc.c" />
 
-# `nproc`
+# `nproc.c`
 This tool is one of the [coreutils](https://www.gnu.org/software/coreutils/)
 which outputs the amount of available processor cores/threads.
 
