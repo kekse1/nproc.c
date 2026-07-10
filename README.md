@@ -30,8 +30,12 @@ I choosed regular **ANSI C** as programming language.
 
 BTW., it was born **2024-04-15**.
 
+<br><br><br>
+
 # Contact
 <img src="https://kekse.biz/github.php?override=github:nproc.c&draw&text=nproc.c@kekse.biz&angle=6&size=38pt&fg=150,20,90&font=OpenSans&ro&readonly&h=64&v=16" />
+
+<br>
 
 # Copyright and License
 The Copyright is [(c) Sebastian Kucharczyk](./COPYRIGHT.txt),
